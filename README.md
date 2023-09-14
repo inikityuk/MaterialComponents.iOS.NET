@@ -1,7 +1,7 @@
 # MaterialComponents.iOS.NET
 Port of Xamarin.iOS.MaterialComponents (92.0.0) to NET 7
 
-Nuget package:
+Original Nuget package:
 https://www.nuget.org/packages/Xamarin.iOS.MaterialComponents
 
 Github:
