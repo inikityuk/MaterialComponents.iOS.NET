@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Xamarin.MaterialComponents.iOS.NET</id>
+    <title>Xamarin Material Components for iOS</title>
+    <version>1.0.0</version>
+    <authors>Igor Nikityuk, Microsoft</authors>
+    <description>iOS .NET 7 bindings for MaterialComponents.iOS (MDC-iOS)</description>
+    <projectUrl>https://github.com/inikityuk/Xamarin.MaterialComponents.iOS.NET</projectUrl>
+    <readme>lib/net7.0-ios16.1/README.md</readme>
+    <license type="file">lib/net7.0-ios16.1/LICENSE</license>
+    <dependencies>
+      <group targetFramework="net7.0-ios16.1">
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="output/net7.0-ios/**/*" target="lib/net7.0-ios16.1" />
+  </files>
+</package>

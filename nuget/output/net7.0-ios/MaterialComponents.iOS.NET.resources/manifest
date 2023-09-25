@@ -1,0 +1,62 @@
+﻿<BindingAssembly>
+	<NativeReference Name="MaterialComponents.xcframework">
+		<ForceLoad>true</ForceLoad>
+		<Frameworks>CoreGraphics QuartzCore</Frameworks>
+		<IsCxx></IsCxx>
+		<Kind>Framework</Kind>
+		<LinkerFlags>-ObjC</LinkerFlags>
+		<NeedsGccExceptionHandling></NeedsGccExceptionHandling>
+		<SmartLink>true</SmartLink>
+		<WeakFrameworks></WeakFrameworks>
+	</NativeReference>
+	<NativeReference Name="MDFInternationalization.xcframework">
+		<ForceLoad>true</ForceLoad>
+		<Frameworks></Frameworks>
+		<IsCxx></IsCxx>
+		<Kind>Framework</Kind>
+		<LinkerFlags></LinkerFlags>
+		<NeedsGccExceptionHandling></NeedsGccExceptionHandling>
+		<SmartLink>true</SmartLink>
+		<WeakFrameworks></WeakFrameworks>
+	</NativeReference>
+	<NativeReference Name="MDFTextAccessibility.xcframework">
+		<ForceLoad>true</ForceLoad>
+		<Frameworks></Frameworks>
+		<IsCxx></IsCxx>
+		<Kind>Framework</Kind>
+		<LinkerFlags></LinkerFlags>
+		<NeedsGccExceptionHandling></NeedsGccExceptionHandling>
+		<SmartLink>true</SmartLink>
+		<WeakFrameworks></WeakFrameworks>
+	</NativeReference>
+	<NativeReference Name="MotionAnimator.xcframework">
+		<ForceLoad>true</ForceLoad>
+		<Frameworks></Frameworks>
+		<IsCxx></IsCxx>
+		<Kind>Framework</Kind>
+		<LinkerFlags></LinkerFlags>
+		<NeedsGccExceptionHandling></NeedsGccExceptionHandling>
+		<SmartLink>true</SmartLink>
+		<WeakFrameworks></WeakFrameworks>
+	</NativeReference>
+	<NativeReference Name="MotionInterchange.xcframework">
+		<ForceLoad>true</ForceLoad>
+		<Frameworks></Frameworks>
+		<IsCxx></IsCxx>
+		<Kind>Framework</Kind>
+		<LinkerFlags></LinkerFlags>
+		<NeedsGccExceptionHandling></NeedsGccExceptionHandling>
+		<SmartLink>true</SmartLink>
+		<WeakFrameworks></WeakFrameworks>
+	</NativeReference>
+	<NativeReference Name="MotionTransitioning.xcframework">
+		<ForceLoad>true</ForceLoad>
+		<Frameworks></Frameworks>
+		<IsCxx></IsCxx>
+		<Kind>Framework</Kind>
+		<LinkerFlags></LinkerFlags>
+		<NeedsGccExceptionHandling></NeedsGccExceptionHandling>
+		<SmartLink>true</SmartLink>
+		<WeakFrameworks></WeakFrameworks>
+	</NativeReference>
+</BindingAssembly>
