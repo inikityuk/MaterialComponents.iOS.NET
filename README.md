@@ -1,4 +1,4 @@
-# MaterialComponents.iOS.NET
+# Xamarin.MaterialComponents.iOS.NET
 Binding project of Xamarin.iOS.MaterialComponents (92.0.0) for NET 7
 
 Original Nuget package:
