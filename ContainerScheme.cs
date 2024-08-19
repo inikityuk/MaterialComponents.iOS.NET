@@ -37,7 +37,7 @@ using CoreFoundation;
 using NetworkExtension;
 
 
-namespace MaterialComponents
+namespace Xamarin.MaterialComponents.iOS.NET
 {
 	[Register("MDCContainerScheme", true)]
 	public unsafe partial class ContainerScheme : NSObject, IContainerScheming

@@ -7,7 +7,7 @@ using Foundation;
 using ObjCRuntime;
 using UIKit;
 
-namespace MaterialComponents
+namespace Xamarin.MaterialComponents.iOS.NET
 {
 
 	public static class ShadowElevations

@@ -7,7 +7,7 @@ using ObjCRuntime;
 using UIKit;
 using NSTextAlignment = UIKit.UITextAlignment;
 
-namespace MaterialComponents
+namespace Xamarin.MaterialComponents.iOS.NET
 {
 
     delegate void ActionSheetHandler(ActionSheetAction arg0);

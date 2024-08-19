@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using CoreGraphics;
 using ObjCRuntime;
 
-namespace MaterialComponents
+namespace Xamarin.MaterialComponents.iOS.NET
 {
 	[Native]
 	public enum AnimationTimingFunction : ulong
